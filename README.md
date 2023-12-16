@@ -43,14 +43,5 @@
 <br>
 <img src="ssip_hack/images/alert.png" width="800" alt="Validation Image" />
 
-#### Meet the Team
-Our dedicated team of experts has worked tirelessly to bring this project to life:
 
-- Baraiya Ashish 
-- Sakariya Ronak 
-- Khatri Kapil 
-- Kushal Bosamiy 
-- Bansi Pandya 
-
-
-Feel free to reach out to our team if you have any questions or need further information
+Feel free to reach out to me  if you have any questions or need further information
